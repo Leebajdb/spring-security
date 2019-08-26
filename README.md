@@ -6,4 +6,5 @@
 * Simply clone this project and run.
 * The swagger UI is configured to test the API.
 * Login username is admin@example.in
+
   Password is password
